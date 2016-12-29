@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: sample_kaminari_bourbon_dev
+  pool: 5
+  username: moiseszaragoza
+  password:
+
